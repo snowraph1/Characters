@@ -1,0 +1,12 @@
+{
+  "name": "com.snowraph.characters",
+  "version": "1.0.0",
+  "displayName": "[SNOWRAPH] Characters",
+  "description": "A base package for characters",
+  "unity": "2020.3",
+  "author": {
+    "name": "snowraph",
+    "email": "snowraph.auger@gmail.com",
+    "url": ""
+  }
+}
